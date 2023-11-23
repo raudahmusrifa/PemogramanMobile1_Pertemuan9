@@ -12,7 +12,7 @@ Mata Kuliah : Pemograman Mobile 1
 - Tugas android semester 3 mengenai intent dan activity
 
 
-#### Berikut output program :
+#### Output program sebagai berikut :
 
 1. Tampilan logo aplikasi
 
