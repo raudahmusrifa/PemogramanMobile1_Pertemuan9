@@ -4,7 +4,7 @@ Nim : 312210020
 
 Kelas : TI.22.B1
 
-Mata Kuliah : Pemrograman Mobile 1
+Mata Kuliah : Pemograman Mobile 1
 
 ### Tugas sebelum UTS
 
